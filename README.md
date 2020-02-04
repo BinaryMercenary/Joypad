@@ -35,14 +35,14 @@ Consumables:
 BOM:
 <li>bluetooh keyboard module for the bins - https://www.adafruit.com/product/1535
 <li>Joystick, applicaton spefic non-analogue. amazon asin B01MY8NQEW
-<li>buttons, med, 12mm. amazon asin B01N5JRU2R
-<li>buttons, large, 30mm. amazon asin B01MRWL6DW
 <li>Power switch, push-pull. amazon asin B000CPIQYU
+<li>buttons, large, 30mm. amazon asin B01MRWL6DW
+<li>buttons, med, 12mm. amazon asin B01N5JRU2R
 <li>plastic grommets
 <li>washers, misc.
 <li>Lego case
 
-Lego's pre-soy abs is amazing plastic.  If I were professionally sculpt a product I'd take it over ANYTHING.  It cuts like butter, has a rapid glass transition phase in/out, and is solid/strong like nothing else.
+Lego's pre-soy abs is amazing plastic.  If I were professionally sculpting/printing a product I'd take it over ANYTHING.  It cuts like butter, has a rapid glass transition phase in/out, and is solid/strong like nothing else.
 So for my donor, I grabbed their little case (and got it _full of legos/minifigures_ cheaper than a purposed case online with reviews about questionable material)
 
 <img src="/images/HADOUKENing.png" width=100%>
