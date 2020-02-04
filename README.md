@@ -4,7 +4,7 @@ Streetfighter, Balloon Fight, Zelda, or any great retro rom deserve a proper arc
 
 <img src="/images/project_and_pi_case.png" width=100%>
 
-<font size="+1"><u>If you just want a cheap controller this isn't it - (instead, get asin B008DPQ4QI / B01NCJ42H9 - great for lakka).
+<font size="+1"><u> If you just want a cheap controller this isn't it - (instead, get asin B008DPQ4QI / B01NCJ42H9 - great for lakka).
 This is the way to HADOUKEN... </u></font>
 
 The commited pdf file can be used as a template to mark your holes on the lego case.  You can scale it when printed/copied/photocopied per the scalers in the image to achieve a relatively accurate reproduction.
