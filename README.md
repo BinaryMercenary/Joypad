@@ -1,6 +1,6 @@
 Streetfighter, Balloon Fight, Zelda, or any great retro rom deserve a proper Joypad. Wireless HID designed with Lakka in mind.
 
-<img src="/art/banner.png" width: 100%>
+<img src="/art/banner.png" width=100%>
 
 Warning - these bins can brick your device.  Take extreme care to ensure you have no loss of connection or power during flash!
 Because I've tailored these bins to impersonate a logitech keyboard device (and it's pairing modes) please note the following:
